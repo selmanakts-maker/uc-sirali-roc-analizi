@@ -1,0 +1,11 @@
+Source: https://cran.r-project.org/src/contrib/Archive/DiagTest3Grp/DiagTest3Grp_1.6.tar.gz
+Archive MD5: 416c690f42846c2e3c4e1797c4b04c03
+Direction: T = -kfront; complete cases only; CDR order 0, 0.5, 1
+TCF decision: T<=c1; c1<T<=c2; T>c2
+RNG: Mersenne-Twister / Inversion / Rejection; seed 20260909
+VUS bootstrap B=2000, then cutoff bootstrap B=1000 without resetting seed
+Percentiles: type=7; primary objective tolerance=1e-12
+Tie break: maximum minimum TCF, then lower middle pair in c1,c2 sorted order
+Threshold percentiles are descriptive marginal summaries, not a joint confidence region.
+Outputs summarize the complete-case training sample and bootstrap internal validation.
+Raw person records are downloaded from CRAN, not redistributed in the electronic supplement.

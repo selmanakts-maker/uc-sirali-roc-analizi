@@ -1,0 +1,3 @@
+"method","apparent_BA","mean_optimism","corrected_BA","multiple_optima_percent","empty_middle_count","bootstrap_B"
+"Youden",0.697231450719823,0.0451513473606497,0.652080103359173,23.5,5,1000
+"Distance",0.691866617448013,0.0345797465239326,0.65728687092408,2.1,0,1000
