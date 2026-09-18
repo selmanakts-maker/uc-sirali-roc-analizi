@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Bu analiz kodunu kullanırsanız elektronik eke atıf veriniz."
+type: software
+version: "1.0.0"
+date-released: "2026-09-18"
+repository-code: "https://github.com/selmanakts-maker/uc-sirali-roc-analizi"
+url: "https://github.com/selmanakts-maker/uc-sirali-roc-analizi/releases/tag/v1.0.0"
+title: "Üç sıralı tanı grubunda ROC analizi: ROC yüzeyi, VUS ve eşik seçimi — elektronik ek"
+authors:
+  - family-names: "Aktaş"
+    given-names: "Selman"
+abstract: "Sağlık Bilimlerinde Biyoistatistik: Teoriden Uygulamaya kitabı için hazırlanan bölümün yeniden üretilebilir R analizleri."
+keywords:
+  - ROC
+  - VUS
+  - R
+  - biostatistics
+  - bootstrap

@@ -1,0 +1,9 @@
+# İndirilen ham veri ve geçici R dosyaları
+veri_onbellegi/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+Rplots.pdf
+.DS_Store
+Thumbs.db
